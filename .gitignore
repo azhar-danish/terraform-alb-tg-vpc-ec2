@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+# Ignore local Terraform state files
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+keys
+user_data
